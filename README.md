@@ -137,7 +137,7 @@ const walid = {
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/walidnoussir)
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/walidnoussir)
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/wqasUqF2)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/noussir____walid)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noussirw@gmail.com)
 
@@ -161,7 +161,7 @@ If you find my projects helpful and want to support my work, you can buy me a co
   
 ### 💡 *"The only way to do great work is to love what you do"*
 
-![Profile Views](https://visitcount.itsvg.in/api?id=walidnoussir&icon=2&color=3)
+![Profile Views](https://komarev.com/ghpvc/?username=walidnoussir&color=blueviolet&style=flat-square&label=Profile+Views)
 
 ⭐️ From [walidnoussir](https://github.com/walidnoussir)
 
